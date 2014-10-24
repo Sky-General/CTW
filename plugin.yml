@@ -1,0 +1,6 @@
+name: Capture The Wool
+version: ALPHA
+description: minigame
+author: Sky_General109
+main: me.skyGeneral.ctw.Main
+commands:
